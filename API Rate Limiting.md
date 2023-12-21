@@ -1,0 +1,1 @@
+Understand GitHub API Rate Limits: Familiarize yourself with GitHub's API rate limits, which vary based on authentication and endpoint types. Check the "Rate Limit" response header to monitor your API usage.
